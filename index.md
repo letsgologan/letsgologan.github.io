@@ -8,7 +8,8 @@ tagline: You would if you could but you can't so you won't.
 ## Info
 my email is `phantanphong98 ` at `gmail.com`
 
-pay a visit to my [github](http://github.com/gree2).
+pay a visit to my [github](https://github.com/letsgologan)
+
 
 ## Posts
 
